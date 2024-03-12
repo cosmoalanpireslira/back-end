@@ -1,16 +1,16 @@
 # <h1>Back-End: Repositório </h1>
 
 
-# Links úteis <h2>
+# <h2> Links úteis </h2>
 
 [Apresentação e introdução da diciplina](https://drive.google.com/file/d/15OfelCvXu-S98IPkh3psuUoPrwn5zUFd/view?usp=drive_link)
 
 [Plano de ensino](https://drive.google.com/file/d/1eC800mzEuvlNBUsh4Qh76_ds1xZXo6o3/view?usp=drive_link)
 
 
-# Resumo <h1>
+# <h1> Resumo <h1>
 
-Objeto: <h2> Usando conceitos de back-end, um objeto pode ser definido como:
+<h2> Objeto: </h2> Usando conceitos de back-end, um objeto pode ser definido como:
 
 1. Entidade: Um objeto é uma entidade individual com características e comportamentos específicos dentro do sistema. Imagine um objeto "Usuário" com propriedades como nome, email e senha.
 
