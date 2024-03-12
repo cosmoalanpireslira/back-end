@@ -11,6 +11,7 @@ Processar lógica e funcionalidades
 Conectar com bancos de dados
 
 <h2> Objeto: </h2> Usando conceitos de back-end, um objeto pode ser definido como:
+
 1. Entidade: Um objeto é uma entidade individual com características e comportamentos específicos dentro do sistema. Imagine um objeto "Usuário" com propriedades como nome, email e senha.
 
 2. Classe: Objetos com características e comportamentos semelhantes são agrupados em classes. A classe "Usuário" define as características e comportamentos comuns a todos os usuários do sistema.
