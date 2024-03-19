@@ -8,4 +8,4 @@
 ?>
 
 # <h2> Resolução com explicação no Replit: </h2>
-[URI 1013 php-replit](https://replit.com/@Cosmo-AlanAlan/1-1013-The-Greatest) 
+[URI 1013 php-replit].(https://replit.com/@Cosmo-AlanAlan/1-1013-The-Greatest) 
